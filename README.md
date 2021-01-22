@@ -1,5 +1,5 @@
 <h1 align="center">I am Skyler!</h1>
-<h2 align="center">I am a Content Creator and Game Dev.</h2>
+<h2 align="center">I am a Content Creator and Front End Web Devloper.</h2>
 
 <div align="center">
 
