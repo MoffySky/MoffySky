@@ -14,3 +14,7 @@
 <h3>Discord:</h3> 
 <a class="button" href="https://discord.gg/6Nnz64w">Discord Link</a>
 <div>
+
+
+> **Warning**:
+> UwU?
